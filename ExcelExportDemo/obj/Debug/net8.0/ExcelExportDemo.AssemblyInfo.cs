@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExcelExportDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0c95d62afbd40db89d0de222ff6afa444756cfb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ce6823888fbed5d04a8551e41975b35e0a4abfa")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExcelExportDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExcelExportDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

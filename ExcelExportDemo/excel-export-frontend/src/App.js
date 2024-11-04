@@ -4,8 +4,10 @@ function App() {
   const downloadExcel = async () => {
     try {
       const response = await fetch(
-        "http://localhost:5000/api/export/export-data"
+        "http://localhost:5137/api/export/export-data"
       );
+      if (!response.ok) throw new Error("Network response was not ok");
+
       const blob = await response.blob();
       const url = window.URL.createObjectURL(blob);
       const link = document.createElement("a");
