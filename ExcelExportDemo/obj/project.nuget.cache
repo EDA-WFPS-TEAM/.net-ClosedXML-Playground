@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "9BTKxORYH5A=",
+  "success": true,
+  "projectFilePath": "/Users/jacobmarineau/.net-ClosedXML-Playground/ExcelExportDemo/ExcelExportDemo.csproj",
+  "expectedPackageFiles": [
+    "/Users/jacobmarineau/.nuget/packages/closedxml/0.104.1/closedxml.0.104.1.nupkg.sha512",
+    "/Users/jacobmarineau/.nuget/packages/closedxml.parser/1.2.0/closedxml.parser.1.2.0.nupkg.sha512",
+    "/Users/jacobmarineau/.nuget/packages/documentformat.openxml/3.0.1/documentformat.openxml.3.0.1.nupkg.sha512",
+    "/Users/jacobmarineau/.nuget/packages/documentformat.openxml.framework/3.0.1/documentformat.openxml.framework.3.0.1.nupkg.sha512",
+    "/Users/jacobmarineau/.nuget/packages/excelnumberformat/1.1.0/excelnumberformat.1.1.0.nupkg.sha512",
+    "/Users/jacobmarineau/.nuget/packages/microsoft.aspnetcore.openapi/8.0.10/microsoft.aspnetcore.openapi.8.0.10.nupkg.sha512",
+    "/Users/jacobmarineau/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/jacobmarineau/.nuget/packages/microsoft.openapi/1.6.14/microsoft.openapi.1.6.14.nupkg.sha512",
+    "/Users/jacobmarineau/.nuget/packages/rbush/3.2.0/rbush.3.2.0.nupkg.sha512",
+    "/Users/jacobmarineau/.nuget/packages/sixlabors.fonts/1.0.0/sixlabors.fonts.1.0.0.nupkg.sha512",
+    "/Users/jacobmarineau/.nuget/packages/swashbuckle.aspnetcore/6.6.2/swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "/Users/jacobmarineau/.nuget/packages/swashbuckle.aspnetcore.swagger/6.6.2/swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "/Users/jacobmarineau/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.6.2/swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "/Users/jacobmarineau/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.6.2/swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512",
+    "/Users/jacobmarineau/.nuget/packages/system.io.packaging/8.0.0/system.io.packaging.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

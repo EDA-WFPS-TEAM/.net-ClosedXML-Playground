@@ -1,0 +1,6 @@
+@ExcelExportDemo_HostAddress = http://localhost:5137
+
+GET {{ExcelExportDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
